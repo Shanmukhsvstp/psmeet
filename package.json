@@ -1,7 +1,7 @@
 {
-  "name": "livestream-server",
+  "name": "PsMeet",
   "version": "0.0.1",
-  "description": "A conference call implementation using WebRTC, Socket.io and Node.js.",
+  "description": "PsMeet lets you to create meetings with end-to=end encrypyion with many features like chat, screen share, audio, video, etc,...",
   "main": "src/app.js",
   "dependencies": {
     "express": "^4.17.3",
@@ -16,18 +16,5 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amirsanni/livestream-server.git"
-  },
-  "keywords": [
-    "LiveStream",
-    "Server"
-  ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
-  },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  "author": "P. Shanmukha Sai"
 }
