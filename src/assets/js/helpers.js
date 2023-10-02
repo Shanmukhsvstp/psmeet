@@ -66,6 +66,7 @@ export default {
 
         else {
             throw new Error( 'User media not available' );
+
         }
     },
 
